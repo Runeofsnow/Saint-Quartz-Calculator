@@ -1,4 +1,4 @@
-# Saint-Quartz-Calculator
+# Saint-Quartz-Prediction
 
 This project is designed to allow the user to determine the approximate amount of Saint Quartz you will have after a set period of time. Unlike the existing calculator, this one is run from the command line and accounts for the SQ obtained from events.
 
